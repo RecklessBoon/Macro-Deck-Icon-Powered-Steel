@@ -1,0 +1,3 @@
+.sync-exclude.lst
+src/lib/
+src/output/

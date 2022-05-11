@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16.0px"
+   height="16.0px"
+   viewBox="0 0 16.0 16.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="Icon_Powered_Steel.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   inkscape:export-xdpi="1200"
+   inkscape:export-ydpi="1200"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <style
+     id="style916">.icon-holder {  }
+</style>
+  <defs
+     id="defs2551">
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect5428"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5055">
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1"
+         offset="0"
+         id="stop5051" />
+      <stop
+         style="stop-color:#737373;stop-opacity:1"
+         offset="1"
+         id="stop5053" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="DotL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path3213" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5055"
+       id="linearGradient5057"
+       x1="0"
+       y1="16"
+       x2="16"
+       y2="0"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5055"
+       id="linearGradient5259"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="16"
+       x2="16"
+       y2="0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5318">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g5314"
+         id="use5320" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5416">
+      <g
+         id="g5426"
+         clip-path="url(#clipPath5318)"
+         mask="none"
+         style="display:none">
+        <g
+           inkscape:label="Clip"
+           id="g5424">
+          <path
+             style="fill:#737373;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 5,17 17,7 18,8 6,18 Z"
+             id="path5418" />
+          <path
+             style="fill:#737373;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 7,18 19,8 20,9 8,19 Z"
+             id="path5420" />
+          <path
+             style="fill:#737373;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 9,19 21,9 22,10 10,20 Z"
+             id="path5422" />
+        </g>
+      </g>
+      <path
+         id="lpe_path-effect5428"
+         class="powerclip"
+         d="M -5,-5 H 21 V 21 H -5 Z M 5,17 6,18 18,8 17,7 Z M 7,18 8,19 20,9 19,8 Z m 2,1 1,1 12,-10 -1,-1 z" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6669"
+       x="-1.2e-06"
+       width="1.0000024"
+       y="-1.2e-06"
+       height="1.0000024">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="8.0000002e-06"
+         id="feGaussianBlur6671" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7460"
+       x="-0.00027"
+       width="1.00054"
+       y="-0.00027"
+       height="1.00054">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0018"
+         id="feGaussianBlur7462" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter981"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix977" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix979" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="-0.9375"
+     inkscape:cy="7.7232143"
+     inkscape:document-units="px"
+     inkscape:current-layer="icon"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:window-width="3440"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3121" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2554">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="inactive"
+     inkscape:label="Inactive"
+     style="display:inline;filter:url(#filter6669)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#c1c8cc;fill-opacity:1;stroke:none;stroke-width:2.26772;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect5435"
+       width="16"
+       height="16"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="active"
+     inkscape:label="Active"
+     style="display:inline;filter:url(#filter6669)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#dda122;fill-opacity:1;stroke:none;stroke-width:2.26772;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect6673"
+       width="16"
+       height="16"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="background"
+     style="opacity:1;filter:url(#filter7460)"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:url(#linearGradient5259);fill-opacity:1;stroke:none;stroke-width:2.26772;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect3128"
+       width="16"
+       height="16"
+       x="0"
+       y="0"
+       sodipodi:type="rect"
+       d="M 0,0 H 16 V 16 H 0 Z"
+       mask="none"
+       clip-path="url(#clipPath5416)"
+       inkscape:path-effect="#path-effect5428"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="icon"
+     inkscape:label="Icon"
+     class="icons-wrapper"
+     style="display:inline">
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       xlink:href="icon-import.svg"
+       id="icon-import"
+       x="4.8000002"
+       y="2.8800001"
+       style="filter:url(#filter981)"
+       transform="matrix(0.02,0,0,0.02,2.944,2.8224)" />
+  </g>
+</svg>
